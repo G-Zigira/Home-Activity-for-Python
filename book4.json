@@ -1,0 +1,11 @@
+{
+    "id": 4,
+    "created_at": "2026-05-13 15:21:32.563027",
+    "updated_at": "2026-05-13 15:21:32.563027",
+    "title": "MLBB",
+    "author": "Balmond Sunfire",
+    "year": 1789,
+    "genre": "Fantasy",
+    "isborrowed": false,
+    "filename": "book4.json"
+}
